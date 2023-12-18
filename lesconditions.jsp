@@ -31,8 +31,8 @@
    
     
 <h2>Exercice 1 : Comparaison 1</h2>
-<p>Ecrire un programme qui demande à l'utilisateur de saisir 3 valeurs (des chiffres),</br>
-public class ComparaisonValeurs {
+<p>Ecrire un programme qui demande à l'utilisateur de saisir 3 valeurs (des chiffres),</br><p>
+%>public class ComparaisonValeurs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -53,6 +53,7 @@ public class ComparaisonValeurs {
     }
 }
 </p>
+<%
 
 <h2>Exercice 2 : Pair ou Impair ?</h2>
 <p>Écrivez un programme pour vérifier si un nombre est pair ou impair en utilisant une structure if</p>
